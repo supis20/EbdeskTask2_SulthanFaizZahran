@@ -24,7 +24,8 @@
         - DML (Data Manipulation Language) terdiri dari perintah seperti INSERT, UPDATE, dan DELETE.
         - DCL (Data Control Language) terdiri dari perintah seperti GRANT dan REVOKE.
         
-        Perbedaan utama antara ketiga jenis perintah ini adalah fokusnya. DDL digunakan untuk mengelola struktur 
-        database, sedangkan DML digunakan untuk mengelola data dalam tabel. Sementara DCL digunakan untuk mengatur 
-        hak akses pengguna pada objek database. Biasanya, DDL dan DML digunakan oleh pengguna atau developer 
-        database, sedangkan DCL digunakan oleh administrator database untuk mengatur hak akses pengguna pada objek database.
+        Perbedaan utama antara ketiga jenis perintah ini adalah fokusnya. DDL digunakan untuk mengelola 
+        struktur database, sedangkan DML digunakan untuk mengelola data dalam tabel. Sementara DCL digunakan 
+        untuk mengatur hak akses pengguna pada objek database. Biasanya, DDL dan DML digunakan oleh pengguna 
+        atau developer database, sedangkan DCL digunakan oleh administrator database untuk mengatur hak akses 
+        pengguna pada objek database.
