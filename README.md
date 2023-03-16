@@ -29,3 +29,17 @@
         untuk mengatur hak akses pengguna pada objek database. Biasanya, DDL dan DML digunakan oleh pengguna 
         atau developer database, sedangkan DCL digunakan oleh administrator database untuk mengatur hak akses 
         pengguna pada objek database.
+
+3. Periksalah file yang terlampir!
+
+    a. Baca file tersebut (boleh menggunakan bahasa pemrograman apapun) lalu masukan data tersebut ke dalam sebuah database SQL (boleh menggunakan database SQL apapun        asalkan mudah diakses dan stabil!)
+    
+        Saya menggunakan database MySQL pada task ini karena menurut saya MySQL mudah diakses dan stabil. 
+        Selain itu, saya mengetahui bahwa MySQL adalah salah satu database SQL yang populer dan banyak 
+        digunakan oleh pengembang dan organisasi besar di seluruh dunia. Dukungan dan sumber daya online 
+        untuk MySQL juga mudah ditemukan dan dapat membantu saya jika saya mengalami kesulitan dalam 
+        mengelola database. Selain itu, MySQL dapat diintegrasikan dengan banyak bahasa pemrograman dan 
+        platform aplikasi, yang akan memudahkan saya dalam mengembangkan aplikasi yang terhubung dengan 
+        database MySQL. Oleh karena itu, saya memutuskan untuk menggunakan MySQL dalam task ini.
+    
+    b. Lakukanlah perbaikan atau normalisasi terhadap data tersebut sebelum dimasukan ke dalam database agar lebih efisien dan ekfektif dalam melakukan analisis pada          data tersebut
