@@ -187,3 +187,10 @@
         
 ![image](https://user-images.githubusercontent.com/86909749/225571853-eadde86b-cd08-43e7-9d28-e2b317691276.png)
 
+Berikut adalah jawaban dari Task yang diberikan oleh Bapak/Ibu HRD dan User, terima kasih atas kesempatan yang diberikan dan saya berharap Bapak/Ibu HRD dan User bisa menerima saya diperusahaan Ebdesk.
+
+![Picsart_23-03-07_08-37-42-865 (2)](https://user-images.githubusercontent.com/86909749/225572904-7055d5a7-747b-489a-853c-f38923f93ce2.jpg)
+
+Sulthan Faiz Zahran
+
+
